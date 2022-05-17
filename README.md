@@ -3,7 +3,7 @@
 
 
 #Require Module For Password Manager
-pip install cryptography
+#pip install cryptography
 
 
 
